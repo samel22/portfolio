@@ -18,17 +18,13 @@ A personal portfolio website built with HTML, CSS, and JavaScript to showcase my
 
 Frontend: HTML, CSS, JavaScript
 
-Deployment: Netlify
-
 Version Control: Git & GitHub
 
-🔗 Live Demo
 
-Click here to view the portfolio
 
 📸 Screenshots
+<img width="1911" height="831" alt="image" src="https://github.com/user-attachments/assets/a83b0e53-e901-4fcf-b8f0-337a56feeab2" />
 
-(Add screenshots of your website here – homepage, projects section, etc.)
 
 📌 How to Use
 
@@ -45,8 +41,6 @@ cd portfolio-website
 Open index.html in your browser.
 
 ✨ Future Improvements
-
-Add dark mode toggle 🌙
 
 Integrate backend for contact form submissions
 
