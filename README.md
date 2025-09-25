@@ -25,6 +25,9 @@ Version Control: Git & GitHub
 📸 Screenshots
 <img width="1911" height="831" alt="image" src="https://github.com/user-attachments/assets/a83b0e53-e901-4fcf-b8f0-337a56feeab2" />
 
+<img width="1880" height="926" alt="image" src="https://github.com/user-attachments/assets/510c0f5a-10db-4c99-ad89-db65272ccd52" />
+
+
 
 📌 How to Use
 
